@@ -1,2 +1,2 @@
 # music-bot
-Welcome to some internal db.
+Welcome to some internal files
